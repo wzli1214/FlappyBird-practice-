@@ -7,4 +7,9 @@ The gif demo is as follow.
 
 ![image](https://github.com/wzli1214/FlappyBird_practice/blob/master/res/gif/AndroidApp.gif)
 
+The web app demo is as follow.
+
+![image](https://github.com/wzli1214/FlappyBird_practice/blob/master/res/gif/web.gif)
+
+But if you would like to execute this app on web, you need a local server environment, like, MAMP (on mac).
       
