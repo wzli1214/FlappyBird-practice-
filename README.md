@@ -37,3 +37,7 @@ http://www.lessmilk.com/tutorial/flappy-bird-phaser-1
 
 http://www.cnblogs.com/2050/p/3790279.html
 
+Install the web server:
+
+https://phaser.io/tutorials/getting-started-phaser2/part2
+
