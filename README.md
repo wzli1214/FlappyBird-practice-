@@ -5,6 +5,6 @@ Flappy bird is developed in JavaScript/HTML5, using phaser framework.
 
 The gif demo is as follow. 
 
-![image](https://github.com/wzli1214/FlappyBird_practice/tree/master/res/gif/AndroidApp.gif)
+![image](https://github.com/wzli1214/FlappyBird_practice/blob/master/res/gif/AndroidApp.gif)
 
       
