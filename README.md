@@ -3,9 +3,16 @@ I practice this as an opportunity to learn JavaScript, as well as applying the k
 
 Flappy bird is developed in JavaScript/HTML5, using phaser framework. 
 
+Icon:
+
+![image](https://github.com/wzli1214/FlappyBird_practice/blob/master/res/icons/144x144.png)
+
 The gif demo is as follow. 
 
 ![image](https://github.com/wzli1214/FlappyBird_practice/blob/master/res/gif/AndroidApp.gif)
+
+The Android installation apk file is here.
+https://github.com/wzli1214/FlappyBird_practice/tree/master/release
 
 The web app demo is as follow.
 
