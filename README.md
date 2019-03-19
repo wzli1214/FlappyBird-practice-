@@ -33,7 +33,10 @@ Package and publish the app as the apk file.
 http://www.pianshen.com/article/3733122835/
 
 Thanks to:
+
 http://www.lessmilk.com/tutorial/flappy-bird-phaser-1
+
+https://www.youtube.com/watch?v=KpQv2e7yT4M&list=PL6LJCvj3JyM1sWWymQgLAc7yXtMky172w
 
 http://www.cnblogs.com/2050/p/3790279.html
 
